@@ -5,7 +5,7 @@ float volume;
 
 void setup() {
   Serial.begin(9600);
-  Serial.println("Hello you fuck");
+  Serial.println("Connected");
 }
 
 void loop() { 
